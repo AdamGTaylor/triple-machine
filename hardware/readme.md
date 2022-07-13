@@ -78,5 +78,6 @@ The alternative is having one machine that can handle everything. Lower redundan
 
 * CPU: intel xeon W-1290P
 * MOBO: gigabyte w480
+* Cooler: Noctua NH-P1 (with extra low RPM fan)
 
 **Notes**: this would be a workstation/server machines, could handle a GPU as an extra too. Higher individual pwer draw, which is not favored for the project.
